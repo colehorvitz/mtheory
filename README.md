@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# mtheory 0.0.1
 
+mtheory is a music theory program that generates a random instruction for a player to perform on a keyboard or other instrument.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
